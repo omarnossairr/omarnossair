@@ -6,7 +6,7 @@ title: Global Disparities in Access to Healthcare
 # Global Disparities in Access to Healthcare
 **Coverage, Costs, Workforce Distribution, and a Canada-Focused Case Study**
 
-[Read full PDF Here](Global_Disparities_in_Access_to_Healthcare.pdf)
+[Read full PDF Here](global_healthcare.pdf)
 
 ## Abstract
 Access to appropriate, timely, and affordable healthcare remains uneven across the globe despite international commitments to Universal Health Coverage (UHC). Disparities in service availability, financial protection, and healthcare workforce distribution continue to shape health outcomes across regions.
