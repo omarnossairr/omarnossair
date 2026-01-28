@@ -1,8 +1,3 @@
----
-layout: default
-title: Skeletal Muscle Hypertrophy
----
-
 # Skeletal Muscle Hypertrophy
 **A Practical Programming Framework based on Evidence (2020-2024)**
 
