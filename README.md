@@ -1,4 +1,4 @@
-# # Omar Nossair | Science & Research Blog
+# Omar Nossair | Science & Research Blog
 **Researcher | Medical Literature Analyst | Exercise Science Enthusiast**
 
 [🔗 Connect on LinkedIn](https://www.linkedin.com/in/omarnossair22) • [✉️ Contact via GitHub](https://github.com/omar-nossair)
