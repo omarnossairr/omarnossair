@@ -1,8 +1,3 @@
----
-layout: default
-title: Global Disparities in Access to Healthcare
----
-
 # Global Disparities in Access to Healthcare
 **Coverage, Costs, Workforce Distribution, and a Canada-Focused Case Study**
 
