@@ -11,7 +11,7 @@ I specialize in synthesizing complex medical and physiological data into actiona
 ---
 ## 📚 Featured Literature Reviews
 
-1. [Type 2 Diabetes in Canada](type_2_diabetes.pdf)
+1. [Type 2 Diabetes in Canada](type_2_diabetes.md)
 2. [Global Disparities in Access to Healthcare](global-healthcare.md)
 3. [AI in Medicine: Evidence for Physicians & Surgeons](ai-in-medicine.md)
 4. [Skeletal Muscle Hypertrophy: A Programming Framework](hypertrophy-science.md)
