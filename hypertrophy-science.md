@@ -19,4 +19,4 @@ A highly efficient hypertrophy program should emphasize quality over quantity, c
 | **Proximity to Failure** | 0–1 Reps in Reserve (RIR) |
 
 ---
-[Return to Home](README.md)
+[Return to Home](index.md)
