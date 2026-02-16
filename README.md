@@ -11,9 +11,10 @@ I specialize in synthesizing complex medical and physiological data into actiona
 ---
 ## 📚 Featured Literature Reviews
 
-1. [Global Disparities in Access to Healthcare](global-healthcare.md)
-2. [AI in Medicine: Evidence for Physicians & Surgeons](ai-in-medicine.md)
-3. [Skeletal Muscle Hypertrophy: A Programming Framework](hypertrophy-science.md)
+1. [Type 2 Diabetes in Canada](type_2_diabetes.pdf)
+2. [Global Disparities in Access to Healthcare](global-healthcare.md)
+3. [AI in Medicine: Evidence for Physicians & Surgeons](ai-in-medicine.md)
+4. [Skeletal Muscle Hypertrophy: A Programming Framework](hypertrophy-science.md)
 
 ---
 
