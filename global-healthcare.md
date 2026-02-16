@@ -21,4 +21,4 @@ Canada, despite high healthcare spending, experiences significant challenges wit
 Achieving equitable healthcare access requires integrated strategies addressing workforce shortages, financial protection, and region-specific policy reform.
 
 ---
-[Return to Home](README.md)
+[Return to Home](index.md)
