@@ -1,8 +1,3 @@
----
-layout: default
-title: AI in Medicine
----
-
 # Artificial Intelligence in Medicine
 **Current Evidence & Realistic Potential for Physicians and Surgeons**
 
