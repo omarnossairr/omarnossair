@@ -19,10 +19,10 @@ I specialize in synthesizing complex medical and physiological data into actiona
 ---
 
 ## 🛠 Skills & Expertise
-* **Secondary Data Analysis:** Public datasets (WHO, World Bank, OECD)[cite: 5].
-* **Medical Writing:** Evidence-based reviews and systematic synthesis[cite: 141, 273].
-* **Clinical Knowledge:** Diagnostic imaging, surgical robotics, and primary care workflows[cite: 140, 163].
-* **Physiology:** Resistance training variables and metabolic health adaptations[cite: 263, 273].
+* **Secondary Data Analysis:** Public datasets (WHO, World Bank, OECD).
+* **Medical Writing:** Evidence-based reviews and systematic synthesis.
+* **Clinical Knowledge:** Diagnostic imaging, surgical robotics, and primary care workflows.
+* **Physiology:** Resistance training variables and metabolic health adaptations.
 
 ---
 *© 2026 Omar Nossair. Built with Markdown on GitHub.*
