@@ -11,7 +11,7 @@ I specialize in synthesizing complex medical and physiological data into actiona
 ---
 ## 📚 Featured Literature Reviews
 
-1. [Margins that Matter](Margin_That_Matters_Research_Paper.pdf)
+1. [Margins that Matter](margin_that_matters.md)
 2. [Study Time vs Grades](StudyTimeGradesResearchPaperv2.md)
 3. [Type 2 Diabetes in Canada](type_2_diabetes.md)
 4. [Global Disparities in Access to Healthcare](global-healthcare.md)
