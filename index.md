@@ -11,11 +11,12 @@ I specialize in synthesizing complex medical and physiological data into actiona
 ---
 ## 📚 Featured Literature Reviews
 
-1. [Study Time vs Grades](StudyTimeGradesResearchPaperv2.md)
-2. [Type 2 Diabetes in Canada](type_2_diabetes.md)
-3. [Global Disparities in Access to Healthcare](global-healthcare.md)
-4. [AI in Medicine: Evidence for Physicians & Surgeons](ai-in-medicine.md)
-5. [Skeletal Muscle Hypertrophy: A Programming Framework](hypertrophy-science.md)
+1. [Margins that Matter](Margin_That_Matters_Research_Paper.pdf)
+2. [Study Time vs Grades](StudyTimeGradesResearchPaperv2.md)
+3. [Type 2 Diabetes in Canada](type_2_diabetes.md)
+4. [Global Disparities in Access to Healthcare](global-healthcare.md)
+5. [AI in Medicine: Evidence for Physicians & Surgeons](ai-in-medicine.md)
+6. [Skeletal Muscle Hypertrophy: A Programming Framework](hypertrophy-science.md)
 
 ---
 
