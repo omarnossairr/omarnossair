@@ -27,8 +27,8 @@ A breast cancer case study used to unpack surgical margin biology and the commun
 | [Study Time vs Grades](StudyTimeGradesResearchPaperv2.md) | Learning Science | Apr 30, 2026 |
 | [Type 2 Diabetes in Canada](type_2_diabetes.md) | Health Systems | Feb 16, 2026 |
 | [Global Disparities in Access to Healthcare](global-healthcare.md) | Health Systems | Jan 27, 2026 |
-| [AI in Medicine: Evidence for Physicians & Surgeons](ai-in-medicine.md) | AI & Technology | Jan 27, 2026 |
-| [Skeletal Muscle Hypertrophy: A Programming Framework](hypertrophy-science.md) | Physiology & Fitness | Jan 27, 2026 |
+| [AI in Medicine: Evidence for Physicians & Surgeons](ai-in-medicine.md) | AI & Technology | Jan 15, 2026 |
+| [Skeletal Muscle Hypertrophy: A Programming Framework](hypertrophy-science.md) | Physiology & Fitness | Dec 26, 2025 |
 
 ---
 

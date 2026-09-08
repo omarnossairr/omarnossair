@@ -16,7 +16,7 @@ Traces the disease biology behind a single breast cancer case — DCIS growth pa
 
 ### 🧠 [AI in Medicine: Evidence for Physicians & Surgeons](ai-in-medicine.md)
 **Current Evidence & Realistic Potential**
-*Published January 27, 2026*
+*Published January 15, 2026*
 
 A grounded look at where AI is actually earning its place in clinical practice today — diagnostic radiology, surgical robotics, interventional imaging — and where "black box" limitations and workflow friction still hold it back.
 
