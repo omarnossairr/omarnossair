@@ -11,8 +11,8 @@ I specialize in synthesizing complex medical and physiological data into actiona
 ---
 
 ## ⭐ Featured Right Now
-**[The Margin That Matters](margin_that_matters.md)** — *Published August 11, 2026*
-A breast cancer case study used to unpack surgical margin biology and the community access gaps that decide who gets guideline-standard pathology care.
+**[Sleeping Tumors](tumor-dormancy.md)** — *Published September 8, 2026*
+Why cancer can relapse years, even decades, after apparently successful treatment — the biology of dormant disseminated cells and the bone marrow niche that keeps them asleep.
 
 👉 See the full curated list on the **[Featured Work](featured.md)** page.
 
@@ -23,12 +23,13 @@ A breast cancer case study used to unpack surgical margin biology and the commun
 
 | Title | Category | Published |
 | :--- | :--- | :--- |
+| [Sleeping Tumors: The Biology of Cancer Dormancy](tumor-dormancy.md) | Oncology & Pathology | Sep 8, 2026 |
 | [The Margin That Matters](margin_that_matters.md) | Oncology & Pathology | Aug 11, 2026 |
 | [Study Time vs Grades](StudyTimeGradesResearchPaperv2.md) | Learning Science | Apr 30, 2026 |
 | [Type 2 Diabetes in Canada](type_2_diabetes.md) | Health Systems | Feb 16, 2026 |
 | [Global Disparities in Access to Healthcare](global-healthcare.md) | Health Systems | Jan 27, 2026 |
-| [AI in Medicine: Evidence for Physicians & Surgeons](ai-in-medicine.md) | AI & Technology | Jan 27, 2026 |
-| [Skeletal Muscle Hypertrophy: A Programming Framework](hypertrophy-science.md) | Physiology & Fitness | Jan 27, 2026 |
+| [AI in Medicine: Evidence for Physicians & Surgeons](ai-in-medicine.md) | AI & Technology | Jan 15, 2026 |
+| [Skeletal Muscle Hypertrophy: A Programming Framework](hypertrophy-science.md) | Physiology & Fitness | Dec 26, 2025 |
 
 ---
 

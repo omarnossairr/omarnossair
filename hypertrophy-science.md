@@ -1,7 +1,7 @@
 # Skeletal Muscle Hypertrophy
 **A Practical Programming Framework based on Evidence (2020-2024)**
 
-*Published January 27, 2026 · Physiology & Fitness*
+*Published December 26, 2025 · Physiology & Fitness*
 
 [Read full PDF here](hypertrophy.pdf)
 

@@ -1,7 +1,7 @@
 # Artificial Intelligence in Medicine
 **Current Evidence & Realistic Potential for Physicians and Surgeons**
 
-*Published January 27, 2026 · AI & Technology*
+*Published January 15, 2026 · AI & Technology*
 
 [Read full PDF here](ai-in-medicine.pdf)
 
