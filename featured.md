@@ -4,11 +4,21 @@ A curated shortlist of the pieces I'd point you to first. For the complete archi
 
 ---
 
-### 🥇 [The Margin That Matters](margin_that_matters.md)
+### 🥇 [Sleeping Tumors](tumor-dormancy.md)
+**The Biology of Cancer Dormancy and Why Disseminated Cells Relapse Years Later**
+*Published September 8, 2026*
+
+Explains one of oncology's most difficult open problems — why cancer can return years or decades after a clean scan — through the molecular switches and bone marrow niche that hold disseminated cancer cells in a reversible, non-proliferative sleep state. My most recent and most complete review to date.
+
+[Read the summary →](tumor-dormancy.md) &nbsp;|&nbsp; [Full PDF](TumorDormancy_ResearchPaper.pdf)
+
+---
+
+### 🎗️ [The Margin That Matters](margin_that_matters.md)
 **Pathology, Disease Mechanism, and Community Access in Surgical Oncology**
 *Published August 11, 2026*
 
-Traces the disease biology behind a single breast cancer case — DCIS growth patterns, comedonecrosis, lymphovascular invasion — outward to a systemic question: do patients outside major cancer centers get the same standardized pathology reporting and timely care that biology demands? My most recent and most complete review to date.
+Traces the disease biology behind a single breast cancer case — DCIS growth patterns, comedonecrosis, lymphovascular invasion — outward to a systemic question: do patients outside major cancer centers get the same standardized pathology reporting and timely care that biology demands?
 
 [Read the summary →](margin_that_matters.md) &nbsp;|&nbsp; [Full PDF](Margin_That_Matters_Research_Paper.pdf)
 
@@ -34,8 +44,8 @@ Connects the cellular mechanics of insulin resistance and β-cell failure to a h
 
 ---
 
-## Why these three
-Each pairs a mechanistic, evidence-based explanation of *why* a health problem happens with a clear-eyed look at the systemic or access-related factors that make it worse — the throughline across all my research.
+## Why these pieces
+Each pairs a mechanistic, evidence-based explanation of *why* a health problem happens with a clear-eyed look at the systemic, access-related, or clinical factors that make it worse — the throughline across all my research.
 
 ---
 [← Back to Home](index.md)
