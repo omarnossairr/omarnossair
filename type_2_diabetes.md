@@ -1,6 +1,8 @@
 # Type 2 Diabetes in Canada
 **Pathophysiology, Clinical Implications, and the Impact of Healthcare Delays**
 
+*Published February 16, 2026 · Health Systems*
+
 [Read full PDF here](type_2_diabetes.pdf)
 
 ## Abstract
@@ -23,4 +25,4 @@ To improve patient outcomes, the following strategies are proposed:
 * **Predictive Analytics:** Using data to identify and prioritize high-risk patients for early intervention.
 
 ---
-[Return to Home](index.md)
+[← Back to Home](index.md) &nbsp;·&nbsp; [⭐ Featured Work](featured.md)

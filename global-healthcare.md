@@ -1,6 +1,8 @@
 # Global Disparities in Access to Healthcare
 **Coverage, Costs, Workforce Distribution, and a Canada-Focused Case Study**
 
+*Published January 27, 2026 · Health Systems*
+
 [Read full PDF Here](global_healthcare.pdf)
 
 ## Abstract
@@ -21,4 +23,4 @@ Canada, despite high healthcare spending, experiences significant challenges wit
 Achieving equitable healthcare access requires integrated strategies addressing workforce shortages, financial protection, and region-specific policy reform.
 
 ---
-[Return to Home](index.md)
+[← Back to Home](index.md) &nbsp;·&nbsp; [⭐ Featured Work](featured.md)

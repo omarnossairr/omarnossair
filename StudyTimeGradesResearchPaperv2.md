@@ -1,6 +1,8 @@
 # Study Time and Academic Performance  
 **Volume, Quality, Depth of Understanding, and the Optimal Sweet Spot**
 
+*Published April 30, 2026 · Learning Science*
+
 [Read full PDF here](StudyTimeGradesResearchPaperv2.pdf)
 
 ## Abstract
@@ -61,4 +63,4 @@ Applying this framework resulted in:
 
 ---
 
-[Return to Home](index.md)
+[← Back to Home](index.md) &nbsp;·&nbsp; [⭐ Featured Work](featured.md)
