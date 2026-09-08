@@ -1,6 +1,8 @@
 # Artificial Intelligence in Medicine
 **Current Evidence & Realistic Potential for Physicians and Surgeons**
 
+*Published January 27, 2026 · AI & Technology*
+
 [Read full PDF here](ai-in-medicine.pdf)
 
 ## Abstract
@@ -18,4 +20,4 @@ Many applications remain experimental due to challenges such as:
 * Difficulties in integration into existing clinical workflows.
 
 ---
-[Return to Home](index.md)
+[← Back to Home](index.md) &nbsp;·&nbsp; [⭐ Featured Work](featured.md)

@@ -1,6 +1,8 @@
 # Skeletal Muscle Hypertrophy
 **A Practical Programming Framework based on Evidence (2020-2024)**
 
+*Published January 27, 2026 · Physiology & Fitness*
+
 [Read full PDF here](hypertrophy.pdf)
 
 ## The Programming Strategy
@@ -19,4 +21,4 @@ A highly efficient hypertrophy program should emphasize quality over quantity, c
 | **Proximity to Failure** | 0–1 Reps in Reserve (RIR) |
 
 ---
-[Return to Home](index.md)
+[← Back to Home](index.md) &nbsp;·&nbsp; [⭐ Featured Work](featured.md)

@@ -1,6 +1,8 @@
 # The Margin That Matters
 **Pathology, Disease Mechanism, and Community Access in Surgical Oncology**
 
+*Published August 11, 2026 · Oncology & Pathology*
+
 [Read full PDF here](Margin_That_Matters_Research_Paper.pdf)
 
 ## Abstract
@@ -30,4 +32,4 @@ To close this gap, the following strategies are proposed:
 
 ---
 
-[Return to Home](index.md)
+[← Back to Home](index.md) &nbsp;·&nbsp; [⭐ Featured Work](featured.md)
